@@ -55,9 +55,9 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-o
     <Description DefaultValue="Netwrix Endpoint Protector prevents confidential data leaks for your organization"/>
 
     <!-- CUSTOMER EDIT: optionally, you have to change the icon of the add-in -->
-    <IconUrl DefaultValue="https://raw.githubusercontent.com/milinetx/TestOutlookaddin/main/main_64.png" />
+    <IconUrl DefaultValue="https://raw.githubusercontent.com/milnetwrix/TestOutlookaddin/main/main_64.png" />
     <!-- CUSTOMER EDIT: optionally, you have to change the high resolution icon of the add-in -->
-    <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/milinetx/TestOutlookaddin/main/main_128.png"/>
+    <HighResolutionIconUrl DefaultValue="https://raw.githubusercontent.com/milnetwrix/TestOutlookaddin/main/main_128.png"/>
 
     <SupportUrl DefaultValue="https://www.netwrix.com/endpoint-dlp-solution.html" />
 
@@ -85,7 +85,7 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-o
                     https://www.example.com/validator/mainpage.html. The URL MUST be a valid
                     HTTPS URL and point to the "mainpage.html" file provided in this package.
                 -->
-                <SourceLocation DefaultValue="https://milinetx.github.io/TestOutlookaddin/mainpage.html" />
+                <SourceLocation DefaultValue="https://milnetwrix.github.io/TestOutlookaddin/mainpage.html" />
             </DesktopSettings>
         </Form>
     </FormSettings>
@@ -119,7 +119,7 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-o
                         https://www.example.com/validator/mainpage.html. The URL MUST be a valid
                         HTTPS URL and point to the "mainpage.html" file provided in this package.
                     -->
-                    <bt:Url id="residUILessFunctionFileUrl" DefaultValue="https://milinetx.github.io/TestOutlookaddin/mainpage.html" />
+                    <bt:Url id="residUILessFunctionFileUrl" DefaultValue="https://milnetwrix.github.io/TestOutlookaddin/mainpage.html" />
                 </bt:Urls>
             </Resources>
         </VersionOverrides>
