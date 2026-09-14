@@ -67,7 +67,7 @@ https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-deployment-o
         <AppDomain>127.0.0.1</AppDomain>
         <AppDomain>::1</AppDomain>
         <!-- CUSTOMER EDIT: add here the domain name of the add-in URL, for example: www.example.com -->
-        <AppDomain>milinetx.github.io</AppDomain>
+        <AppDomain>milnetwrix.github.io</AppDomain>
         <AppDomain>raw.githubusercontent.com</AppDomain>
     </AppDomains>
     <Hosts>
